@@ -1,2 +1,2 @@
 # Notes
-School Notes
+Class Notes
