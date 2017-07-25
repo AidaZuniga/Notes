@@ -1,2 +1,1 @@
-# Notes
-Class Notes
+University of Waterloo CS study notes
